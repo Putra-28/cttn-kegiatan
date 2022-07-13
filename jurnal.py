@@ -9,6 +9,8 @@ print ('''
          JANGAN LUPA TERSENYUM KAWAN
               BY.MONKEY D DARMAN
 
+!!Klik Enter Saja Jika Ingin Menyelesaikan!!
+
 ''')
 f = open("jurnal.txt", 'a')
 while True:
